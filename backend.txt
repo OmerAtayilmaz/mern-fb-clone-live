@@ -1,0 +1,7 @@
+back end packages:
+npm i express mongoose cors multer multer-gridfs-storage  gridfs-stream body-parser path pusher
+
+package.json->   "type":"module", yazmak ES6 kodu yazabilmeyi sağlar.
+
+
+.gitignore ->nodemodules eklediğimizde oradaki değişiklikleri gite eklemez ve bizi yükten kurtarır.
